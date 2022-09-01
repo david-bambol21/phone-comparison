@@ -1,5 +1,3 @@
-# phone-comparison
-
   <div align="center">
     <h1>Iphone 13 Pro Max</h1>
     <h1>Vs</h1>
