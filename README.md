@@ -11,7 +11,9 @@
 
 
     <p style="color: red; font-size: 100px; font-weight: bold">1</p>
+  
     <img src ='images/Screenshot from 2022-09-01 16-24-45.png'>
+  
     <p style="color: red; font-size: 100px; font-weight: bold">2</p>
     <img src ='images/Screenshot from 2022-09-01 16-25-25.png'>
     <p style="color: red; font-size: 100px; font-weight: bold">3</p>
